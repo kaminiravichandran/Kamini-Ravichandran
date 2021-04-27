@@ -1,4 +1,4 @@
-## Kamini Ravichandran
+
 214-604-5272; kamini.ravichandran5@gmail.com ; https://www.linkedin.com/in/kaminiravichandran/
 
 ### EDUCATION
