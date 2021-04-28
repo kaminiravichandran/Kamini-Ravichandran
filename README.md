@@ -27,7 +27,7 @@
 ### BUSINESS EXPERIENCE
 #### American Heart Association, Dallas, Texas			                                                                                                       (March 2021– Present)
 
-* *Human Resources Associate Data Analyst Intern* *
+**Human Resources Associate Data Analyst Intern**
 
 •	Increased efficiency by 25% by analyzing HR Processes to optimize internal workflow using RPA Bots
 
@@ -43,7 +43,7 @@
 
 #### RSM Albazie Consulting WLL, Kuwait	                                                                                                           (December 2019– January 2020)
 
-* *Data Analytics Advisory Intern* *
+**Data Analytics Advisory Intern**
 
 •	Analyzed relational databases with 3 million rows of financial data in Excel to discover transaction patterns 
 
