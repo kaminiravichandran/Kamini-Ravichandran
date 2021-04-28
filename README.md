@@ -9,18 +9,25 @@
 - National Institute of Technology in Warangal, India	(May 2018)
    - B.S. Electrical Engineering
 
+
 ### TECHNICAL SKILLS
 **Languages and Databases**: Python, R, SQL
+
 **Tools**: Tableau, PowerBI, QlikView, MS Excel, MATLAB
+
 **Machine Learning**: Neural Networks, K-Nearest, Logistic Regression, Clustering, Decision Trees, SVM
+
 **Libraries**: Scikit, Numpy, Pandas, Keras, Tensorflow, Matplotlib
+
 **Statistics**: Hypothesis Testing, A/B Testing, Chi-Square test, T-test, Regression, ANOVA, CLT, Bayes’ theorem
+
 **Courses**: Visualization, Business Analytics, Machine Learning, Statistics, Predictive Analytics, Database Management
+
 
 ### BUSINESS EXPERIENCE
 #### American Heart Association, Dallas, Texas			                                                                                                       (March 2021– Present)
 
-Human Resources Associate Data Analyst Intern
+* *Human Resources Associate Data Analyst Intern* *
 
 •	Increased efficiency by 25% by analyzing HR Processes to optimize internal workflow using RPA Bots
 
@@ -36,7 +43,7 @@ Human Resources Associate Data Analyst Intern
 
 #### RSM Albazie Consulting WLL, Kuwait	                                                                                                           (December 2019– January 2020)
 
-Data Analytics Advisory Intern
+* *Data Analytics Advisory Intern* *
 
 •	Analyzed relational databases with 3 million rows of financial data in Excel to discover transaction patterns 
 
@@ -63,5 +70,5 @@ Data Analytics Advisory Intern
 
 ### LEADERSHIP
 
-Marketing Analytics Club, UT Dallas- Vice President                                                                                                
+Marketing Analytics Club, UT Dallas - Vice President                                                                                                
 (August 2019 –December 2020)
